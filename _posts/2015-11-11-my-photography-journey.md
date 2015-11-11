@@ -6,19 +6,20 @@ inLanguage: null
 starred: false
 keywords: []
 description: Check this space for my photography adventures
-datePublished: '2015-11-11T00:36:19.886Z'
-dateModified: '2015-11-11T00:34:09.198Z'
-title: My Photography Journey
+datePublished: '2015-11-11T04:26:18.499Z'
+dateModified: '2015-11-11T04:25:59.500Z'
+title: "Murali's Photography"
+sourcePath: _posts/2015-11-11-my-photography-journey.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-11-11-my-photography-journey.md
-published: true
 url: my-photography-journey/index.html
 _type: Article
 
 ---
 Posting my first image on my new website
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0acc0e63-2f7b-4528-bf57-1cf3660a9709.jpg)
