@@ -1,26 +1,29 @@
 ---
-inFeed: true
-hasPage: true
-inNav: false
-inLanguage: null
-starred: true
-keywords: []
-description: Check this space for my photography adventures
-datePublished: '2015-11-11T04:30:42.072Z'
-dateModified: '2015-11-11T04:30:40.107Z'
-title: "Murali's Photography"
+datePublished: '2016-08-31T20:21:06.018Z'
 sourcePath: _posts/2015-11-11-my-photography-journey.md
-published: true
+inFeed: true
 authors: []
+hasPage: true
+keywords: []
+author:
+  - name: ''
+    url: ''
+dateModified: '2016-08-31T20:21:05.645Z'
+title: ''
 publisher:
-  name: null
+  name: muralisphotography
   domain: null
-  url: null
+  url: ''
   favicon: null
+description: Posting my first image on my new website
+inLanguage: null
+inNav: false
+via: {}
+starred: false
 url: my-photography-journey/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0acc0e63-2f7b-4528-bf57-1cf3660a9709.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/0888d0b4f213992486aef5a4551e291ca2f7e73b.jpg)
 
 Posting my first image on my new website
