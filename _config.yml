@@ -1,20 +1,4 @@
-name: "Murali's Photography"
-favicon: null
-layout_spectrum: 0.9655498021747917
 typography_spectrum: 0.44908627215772867
-title: "Murali's Photography"
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#fafafc'
@@ -26,4 +10,21 @@ color:
   lightness: 0.8631658146623522
   saturation: 0.0680387883912772
   rhythmicContrast: 0.2615534760989249
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.9655498021747917
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Murali's Photography
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Murali's Photography
+description: 'Capturing Moments and Creating Memories of Lifetime '
 purpose: []
